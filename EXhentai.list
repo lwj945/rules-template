@@ -1,1 +1,8 @@
-1
+# 代理规则，所有自定义的代理域名和IP都放这个文件里，注意#表示注释这一行
+# 域名关键字匹配
+#DOMAIN-KEYWORD,googel
+# 域名后缀匹配
+#DOMAIN-SUFFIX,googel.com
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,ehentai.info

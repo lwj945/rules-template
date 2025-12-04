@@ -3,4 +3,5 @@
 DOMAIN-KEYWORD,googel
 # 域名后缀匹配
 DOMAIN-SUFFIX,hdhive.com
-DOMAIN-SUFFIX,googel.com
+DOMAIN-SUFFIX,google.com
+
